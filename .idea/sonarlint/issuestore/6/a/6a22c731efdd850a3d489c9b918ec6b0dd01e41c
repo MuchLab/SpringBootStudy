@@ -1,0 +1,7 @@
+
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã×æ¢8±ÃÜ÷².
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã×æ¢8ÇÅÙ÷².
+q
+java:S1128"ORemove this unused import 'org.springframework.data.repository.CrudRepository'.(Îê¶¬üÿÿÿÿ8¤þÓ÷².
+a
+java:S1128"?Remove this unused import 'com.chapter41.demo.entities.Coffee'.(ïƒâñüÿÿÿÿ8¨Þä÷².

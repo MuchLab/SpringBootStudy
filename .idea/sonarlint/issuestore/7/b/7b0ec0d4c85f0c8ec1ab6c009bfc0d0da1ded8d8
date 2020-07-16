@@ -1,0 +1,11 @@
+
+‹
+java:S1128"iRemove this unused import 'org.springframework.boot.autoconfigure.data.mongo.MongoDataAutoConfiguration'.(í©ÊÑþÿÿÿÿ8›ÉÕ¸³.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8æèš¹³.
+]	java:S125?"<This block of commented-out lines of code should be removed.(åÅ£†þÿÿÿÿ8²Åú¾³.
+}
+java:S1128"`Remove this unused import 'org.springframework.boot.autoconfigure.mongo.MongoAutoConfiguration'.(½óÙ’8›ÉÕ¸³.
+k
+java:S1192/"IDefine a constant instead of duplicating this literal "espresso" 3 times.(’¯¯€ùÿÿÿÿ8îÓ¾³.
+]	java:S125A"<This block of commented-out lines of code should be removed.(íŽñÔúÿÿÿÿ8ÖËÑ¾³.

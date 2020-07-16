@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chaper1-1/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-1-Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1-2-Swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-2-HikariCP/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1-1-RestfulApi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-1-Jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-2-HikariCP&amp;Druid/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-3-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter24/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-4-MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-5-MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-6-MultiDataSource/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2-7-MyBatisMultiDataSource/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3-1-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-1-Coffee/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-1-MyBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-1-JpaDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-2-MyBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-2-MyBatisGenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-4-SpringBucks/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4-3-MyBatisGenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5-1-MongoDB/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5-2-MongDBRepositories/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5-3-Jedis/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6-1-ApplicationContext/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6-2-WebController/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6-3-JsonViewController/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6-4-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7-1-RestTemplate/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/chapter1-2-Swagger/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

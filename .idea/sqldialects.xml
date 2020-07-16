@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/chapter4-2-MyBatisDemo/src/main/resources/schame.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter4-3-MyBatisGenerator/src/main/resources/schame.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter4-4-SpringBucks/src/main/resources/schame.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/chapter5-3-Jedis/src/main/resources/schame.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/chapter6-2-WebController/src/main/resources/data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter6-2-WebController/src/main/resources/schame.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter6-3-JsonViewController/src/main/resources/schame.sql" dialect="H2" />
+    <file url="file://$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/resources/data.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/resources/schame.sql" dialect="MySQL" />
+  </component>
+</project>

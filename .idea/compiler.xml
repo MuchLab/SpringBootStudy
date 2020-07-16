@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter4-1-JpaDemo" />
+        <module name="chapter6-1-ApplicationContext" />
+        <module name="chapter2-3-JPA" />
+        <module name="chapter6-2-WebController" />
+        <module name="chapter6-3-JsonViewController" />
+        <module name="chapter3-1-Thymeleaf" />
+        <module name="chapter5-2-MongDBRepositories" />
+        <module name="chapter5-1-MongoDB" />
+        <module name="chapter1-2-swagger" />
+        <module name="chapter6-4-Thymeleaf" />
+        <module name="SpringBootStudy" />
+        <module name="chapter2-1-Jdbc" />
+        <module name="chapter1-1-RestfulApi" />
+        <module name="chapter5-3-Jedis" />
+        <module name="chapter2-7-MyBatisMultiDataSource" />
+        <module name="chapter2-6-MultiDataSource" />
+        <module name="chapter4-2-MyBatisDemo" />
+        <module name="chapter4-4-SpringBucks" />
+        <module name="chapter1-2-Swagger" />
+        <module name="chapter7-1-RestTemplate" />
+        <module name="chapter2-2-HikariCP&amp;Druid" />
+        <module name="chapter4-3-MyBatisGenerator" />
+        <module name="chapter2-4-MyBatis" />
+        <module name="chapter2-5-MyBatis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter1-2-Swagger" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chapter1-1-RestfulApi" options="-parameters" />
+      <module name="chapter1-2-Swagger" options="-parameters" />
+      <module name="chapter1-2-swagger" options="-parameters" />
+      <module name="chapter2-1-Jdbc" options="-parameters" />
+      <module name="chapter2-2-HikariCP&amp;Druid" options="-parameters" />
+      <module name="chapter2-3-JPA" options="-parameters" />
+      <module name="chapter2-4-MyBatis" options="-parameters" />
+      <module name="chapter2-5-MyBatis" options="-parameters" />
+      <module name="chapter2-6-MultiDataSource" options="-parameters" />
+      <module name="chapter2-7-MyBatisMultiDataSource" options="-parameters" />
+      <module name="chapter3-1-Thymeleaf" options="-parameters" />
+      <module name="chapter4-1-JpaDemo" options="-parameters" />
+      <module name="chapter4-2-MyBatisDemo" options="-parameters" />
+      <module name="chapter4-3-MyBatisGenerator" options="-parameters" />
+      <module name="chapter4-4-SpringBucks" options="-parameters" />
+      <module name="chapter5-1-MongoDB" options="-parameters" />
+      <module name="chapter5-2-MongDBRepositories" options="-parameters" />
+      <module name="chapter5-3-Jedis" options="-parameters" />
+      <module name="chapter6-1-ApplicationContext" options="-parameters" />
+      <module name="chapter6-2-WebController" options="-parameters" />
+      <module name="chapter6-3-JsonViewController" options="-parameters" />
+      <module name="chapter6-4-Thymeleaf" options="-parameters" />
+      <module name="chapter7-1-RestTemplate" options="-parameters" />
+    </option>
+  </component>
+</project>

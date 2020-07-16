@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chapter1-1-RestfulApi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter1-2-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-1-Jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-2-HikariCP&amp;Druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-3-JPA/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-4-MyBatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-5-MyBatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-6-MultiDataSource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2-7-MyBatisMultiDataSource/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter3-1-Thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-1-JpaDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-2-MyBatisDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-3-MyBatisGenerator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4-4-SpringBucks/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-1-MongoDB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-2-MongDBRepositories/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter5-3-Jedis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-1-ApplicationContext/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-2-WebController/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-3-JsonViewController/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/java" charset="UTF-8" />
+  </component>
+</project>

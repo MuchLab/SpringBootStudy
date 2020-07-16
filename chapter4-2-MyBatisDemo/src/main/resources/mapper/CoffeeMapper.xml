@@ -1,0 +1,18 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<!--<!DOCTYPE mapper-->
+<!--        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"-->
+<!--        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">-->
+<!--<mapper namespace="com.chapter42.demo.mapper.CoffeeMapper">-->
+<!--    <insert id="save" parameterType="com.chapter42.demo.Coffee"-->
+<!--    keyProperty="id" useGeneratedKeys="true">-->
+<!--&lt;!&ndash;        <selectKey keyProperty="id" resultType="long" order="AFTER"&ndash;&gt;-->
+<!--&lt;!&ndash;        statementType="PREPARED">&ndash;&gt;-->
+<!--&lt;!&ndash;            select @@IDENTITY as id&ndash;&gt;-->
+<!--&lt;!&ndash;        </selectKey>&ndash;&gt;-->
+<!--        insert into t_coffee(name, price, create_time, update_time)-->
+<!--        values(#{name}, #{price}, now(), now());-->
+<!--    </insert>-->
+<!--    <select id="findById" resultType="com.chapter42.demo.Coffee">-->
+<!--        select * from t_coffee  where id=#{id}-->
+<!--    </select>-->
+<!--</mapper>-->

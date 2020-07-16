@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="demo" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1743b414-4e52-40da-927d-068823e7d23e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaBasicCode/.idea/sonarlint/issuestore/4/e/4eb8ccb10f0c920dbc933922686567e4d65cadb7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicCode/Demo1-1-Array/Demo1-1-Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasicCode/JavaBasicCode.iml" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.0.18.Final/_remote.repositories" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.0.18.Final/hibernate-validator-6.0.18.Final.pom" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.0.18.Final/hibernate-validator-6.0.18.Final.pom.sha1" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.1.18.Final/hibernate-validator-6.1.18.Final.jar.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.1.18.Final/hibernate-validator-6.1.18.Final.pom.lastUpdated" afterDir="false" />
+      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/java/com/muchlab/chapter71/Chapter71Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/java/com/muchlab/chapter71/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/test/java/com/muchlab/chapter71/Chapter71ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/SpringMvcStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-hellomvc/springmvc-01-hellomvc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0af10012-5d0a-4cfa-b2d0-94609a9c5d1d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0af10012-5d0a-4cfa-b2d0-94609a9c5d1d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/90af3dc4-7370-4b07-8d5b-b25849fe8073.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/90af3dc4-7370-4b07-8d5b-b25849fe8073.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a126763d-c4f0-48c3-94af-c838ce2d407a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a126763d-c4f0-48c3-94af-c838ce2d407a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a39d035f-4fe5-4558-9120-5362186ea109.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a39d035f-4fe5-4558-9120-5362186ea109.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/Chapter64Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/Chapter64Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/CoffeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/CoffeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/GlobalControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/GlobalControllerAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="coffee@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="coffee@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="coffee@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="coffee: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test1@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb" type="feb32156:DbDataSourceImpl" />
+        <item name="TESTDB: database" type="2aa06773:H2ImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb" type="feb32156:DbDataSourceImpl" />
+        <item name="TESTDB: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb" type="feb32156:DbDataSourceImpl" />
+        <item name="TESTDB: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb" type="feb32156:DbDataSourceImpl" />
+        <item name="TESTDB: database" type="2aa06773:H2ImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PUBLIC: schema" type="7f85d983:H2ImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Kotlin File" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\MavenRepo" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eI8NdCMzS5Gn8VZmidkdULxecK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;h2" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="MyBatisLogPluginrunning" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/chapter1-2-Swagger/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/support" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.muchlab.chapter63.support" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\SpringBootStudy\chapter6-4-Thymeleaf\src\main\resources\static" />
+      <recent name="D:\Java\SpringBootStudy\chapter4-2-MyBatisDemo\src\main\resources" />
+      <recent name="D:\Java\SpringBootStudy\chapter3-1-Thymeleaf\src\main\resources\static" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.muchlab.chapter62.controller.request" />
+      <recent name="com.muchlab.chapter53.entity" />
+      <recent name="com.muchlab.chapter44.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\SpringBootStudy\chapter6-4-Thymeleaf\src\main\java\com\muchlab\chapter64\support" />
+      <recent name="D:\Java\SpringBootStudy\chapter6-4-Thymeleaf\src\main\resources" />
+      <recent name="D:\Java\SpringBootStudy\chapter6-4-Thymeleaf\src\main\java\com\muchlab\chapter64\controller" />
+      <recent name="D:\Java\SpringBootStudy\chapter6-4-Thymeleaf\src\main\java\com\muchlab\chapter64" />
+      <recent name="D:\Java\SpringBootStudy\chapter6-3-JsonViewController\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="PersistentMoneyAmount" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Chapter71Application">
+    <configuration name="DemoApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter2-5-MyBatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter25.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chapter25.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter25.demo.DemoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter2-7-MyBatisMultiDataSource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter27.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chapter27.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter27.demo.DemoApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter2-6-MultiDataSource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter26.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chapter26.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter26.demo.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter2-7-MyBatisMultiDataSource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter27.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chapter27.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter27.demo.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter2-6-MultiDataSource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chapter26.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.chapter26.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.chapter26.demo.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="SpringBootStudy" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="SpringBootStudy" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter51Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter5-1-MongoDB" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter51.Chapter51Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter52Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter5-2-MongDBRepositories" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter52.Chapter52Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter53Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter5-3-Jedis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter53.Chapter53Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter61Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter6-1-ApplicationContext" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter61.Chapter61Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter62Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter6-2-WebController" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter62.Chapter62Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter63Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter6-3-JsonViewController" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter63.Chapter63Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter64Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter6-4-Thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter64.Chapter64Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter71Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter7-1-RestTemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter71.Chapter71Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter1-1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter1-1-RestfulApi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter1-2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter1-2-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter12.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-1-Jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter21.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-2-HikariCP&amp;Druid" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter22.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-3-JPA" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter23.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-4" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-4-MyBatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter24mybatis.chapter24.Chapter24Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-5" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-5-MyBatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter25.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-6" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-6-MultiDataSource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter26.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-7" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-7-MyBatisMultiDataSource" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter27.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2-8" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter3-1-Thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter31.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4-1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter4-1-JpaDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter41.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4-2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter4-2-MyBatisDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter42.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4-3" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter4-3-MyBatisGenerator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chapter43.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4-4" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter4-4-SpringBucks" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter44.Chapter44Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DemoApplicationTests (1)" />
+      <item itemvalue="JUnit.DemoApplicationTests.test (1)" />
+      <item itemvalue="JUnit.DemoApplicationTests.test2" />
+      <item itemvalue="JUnit.DemoApplicationTests" />
+      <item itemvalue="JUnit.DemoApplicationTests.test" />
+      <item itemvalue="Spring Boot.chapter2-1" />
+      <item itemvalue="Spring Boot.chapter1-1" />
+      <item itemvalue="Spring Boot.chapter1-2" />
+      <item itemvalue="Spring Boot.chapter2-2" />
+      <item itemvalue="Spring Boot.chapter2-3" />
+      <item itemvalue="Spring Boot.chapter2-4" />
+      <item itemvalue="Spring Boot.chapter2-5" />
+      <item itemvalue="Spring Boot.chapter2-6" />
+      <item itemvalue="Spring Boot.chapter2-7" />
+      <item itemvalue="Spring Boot.chapter2-8" />
+      <item itemvalue="Spring Boot.chapter4-1" />
+      <item itemvalue="Spring Boot.chapter4-2" />
+      <item itemvalue="Spring Boot.chapter4-3" />
+      <item itemvalue="Spring Boot.chapter4-4" />
+      <item itemvalue="Spring Boot.Chapter51Application" />
+      <item itemvalue="Spring Boot.Chapter52Application" />
+      <item itemvalue="Spring Boot.Chapter53Application" />
+      <item itemvalue="Spring Boot.Chapter61Application" />
+      <item itemvalue="Spring Boot.Chapter62Application" />
+      <item itemvalue="Spring Boot.Chapter63Application" />
+      <item itemvalue="Spring Boot.Chapter64Application" />
+      <item itemvalue="Spring Boot.Chapter71Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoApplicationTests.test" />
+        <item itemvalue="JUnit.DemoApplicationTests" />
+        <item itemvalue="JUnit.DemoApplicationTests.test2" />
+        <item itemvalue="JUnit.DemoApplicationTests.test (1)" />
+        <item itemvalue="JUnit.DemoApplicationTests (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="coffee@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="coffee@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@8eec43e" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="coffee@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1968cb90" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1743b414-4e52-40da-927d-068823e7d23e" name="Default Changelist" comment="" />
+      <created>1593997707878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593997707878</updated>
+      <workItem from="1593997714682" duration="22006000" />
+      <workItem from="1594079663312" duration="115000" />
+      <workItem from="1594079818588" duration="191000" />
+      <workItem from="1594080048818" duration="941000" />
+      <workItem from="1594081146001" duration="399000" />
+      <workItem from="1594081598834" duration="25000" />
+      <workItem from="1594082025581" duration="2494000" />
+      <workItem from="1594084535228" duration="69000" />
+      <workItem from="1594084648409" duration="71000" />
+      <workItem from="1594084815251" duration="67000" />
+      <workItem from="1594084963347" duration="7678000" />
+      <workItem from="1594093529011" duration="15601000" />
+      <workItem from="1594211602421" duration="17829000" />
+      <workItem from="1594289194254" duration="13477000" />
+      <workItem from="1594343448900" duration="35802000" />
+      <workItem from="1594633179057" duration="35807000" />
+      <workItem from="1594805895704" duration="3903000" />
+      <workItem from="1594826857973" duration="10997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="25" key="#Assign_Data_Sources" timestamp="1594700052668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="25" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1594700052668" />
+    <state x="550" y="25" key="#Inspections" timestamp="1594297522586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="25" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1594297522586" />
+    <state x="275" y="22" key="#SQL_Dialects" timestamp="1594705425365">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1594705425365" />
+    <state x="318" y="41" key="#chapter1-2" timestamp="1594018298788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="318" y="41" key="#chapter1-2/0.0.1366.728@0.0.1366.728" timestamp="1594018298788" />
+    <state x="125" y="36" width="1092" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594658276332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="125" y="36" width="1092" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594658276332" />
+    <state x="146" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1594912726824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="146" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594912726824" />
+    <state x="326" y="181" width="811" height="466" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594090440588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="181" width="811" height="466" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1594090440588" />
+    <state x="303" y="41" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1594288739347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="41" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1594288739347" />
+    <state x="96" y="230" width="490" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594610631997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="96" y="230" width="490" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1594610631997" />
+    <state width="395" height="454" key="DebuggerActiveHint" timestamp="1594705964763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="395" height="454" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1594705964763" />
+    <state x="477" y="41" key="FileChooserDialogImpl" timestamp="1594599554837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="477" y="41" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594599554837" />
+    <state width="1323" height="306" key="GridCell.Tab.0.bottom" timestamp="1594914097350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
+    <state width="1323" height="306" key="GridCell.Tab.0.center" timestamp="1594914097349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594914097349" />
+    <state width="1323" height="306" key="GridCell.Tab.0.left" timestamp="1594914097349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594914097349" />
+    <state width="1323" height="306" key="GridCell.Tab.0.right" timestamp="1594914097350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
+    <state width="1323" height="306" key="GridCell.Tab.1.bottom" timestamp="1594914097351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594914097351" />
+    <state width="1323" height="306" key="GridCell.Tab.1.center" timestamp="1594914097350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
+    <state width="1323" height="306" key="GridCell.Tab.1.left" timestamp="1594914097350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
+    <state width="1323" height="306" key="GridCell.Tab.1.right" timestamp="1594914097351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="306" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594914097351" />
+    <state width="1323" height="259" key="GridCell.Tab.2.bottom" timestamp="1594914085007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
+    <state width="1323" height="259" key="GridCell.Tab.2.center" timestamp="1594914085007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
+    <state width="1323" height="259" key="GridCell.Tab.2.left" timestamp="1594914085007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
+    <state width="1323" height="259" key="GridCell.Tab.2.right" timestamp="1594914085007">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="259" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1594649021072">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1594649021072" />
+    <state x="426" y="21" key="Maven.ArtifactSearchDialog" timestamp="1594830674186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1594830674186" />
+    <state x="324" y="98" key="NewModule_or_Project.wizard" timestamp="1594085098448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="324" y="98" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1594085098448" />
+    <state x="103" y="20" width="1040" height="708" key="SettingsEditor" timestamp="1594807020044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="103" y="20" width="1040" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594807020044" />
+    <state x="482" y="144" key="chooseDestDirectoryDialog" timestamp="1594017241387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1594017241387" />
+    <state x="581" y="250" width="343" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1594093258573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="581" y="250" width="343" height="238" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728@0.0.1366.728" timestamp="1594093258573" />
+    <state x="399" y="11" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1594024658286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="11" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1594024658286" />
+    <state x="539" y="101" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1594133093636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="539" y="101" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1366.728@0.0.1366.728" timestamp="1594133093636" />
+    <state x="237" y="102" width="892" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594042163630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="237" y="102" width="892" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1594042163630" />
+    <state x="115" y="105" width="1251" height="566" key="new project wizard" timestamp="1594912409039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="105" width="1251" height="566" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1594912409039" />
+    <state x="503" y="179" width="672" height="677" key="run.anything.popup" timestamp="1594652535691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="503" y="179" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594652535691" />
+    <state x="528" y="157" width="672" height="678" key="search.everywhere.popup" timestamp="1594827233547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="528" y="157" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594827233547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/java/com/muchlab/chapter71/Chapter71Application.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
