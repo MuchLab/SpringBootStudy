@@ -34,6 +34,7 @@
         <option value="$PROJECT_DIR$/chapter6-3-JsonViewController/pom.xml" />
         <option value="$PROJECT_DIR$/chapter6-4-Thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/chapter7-1-RestTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

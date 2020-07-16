@@ -24,6 +24,7 @@
         <module name="chapter2-6-MultiDataSource" />
         <module name="chapter4-2-MyBatisDemo" />
         <module name="chapter4-4-SpringBucks" />
+        <module name="chapter7-2-ComplexRestTemplate" />
         <module name="chapter1-2-Swagger" />
         <module name="chapter7-1-RestTemplate" />
         <module name="chapter2-2-HikariCP&amp;Druid" />
@@ -61,6 +62,7 @@
       <module name="chapter6-3-JsonViewController" options="-parameters" />
       <module name="chapter6-4-Thymeleaf" options="-parameters" />
       <module name="chapter7-1-RestTemplate" options="-parameters" />
+      <module name="chapter7-2-ComplexRestTemplate" options="-parameters" />
     </option>
   </component>
 </project>

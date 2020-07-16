@@ -7,41 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1743b414-4e52-40da-927d-068823e7d23e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaBasicCode/.idea/sonarlint/issuestore/4/e/4eb8ccb10f0c920dbc933922686567e4d65cadb7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBasicCode/Demo1-1-Array/Demo1-1-Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaBasicCode/JavaBasicCode.iml" afterDir="false" />
-      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.0.18.Final/_remote.repositories" afterDir="false" />
-      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.0.18.Final/hibernate-validator-6.0.18.Final.pom" afterDir="false" />
-      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.0.18.Final/hibernate-validator-6.0.18.Final.pom.sha1" afterDir="false" />
-      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.1.18.Final/hibernate-validator-6.1.18.Final.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/6.1.18.Final/hibernate-validator-6.1.18.Final.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/java/com/muchlab/chapter71/Chapter71Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/java/com/muchlab/chapter71/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter7-1-RestTemplate/src/test/java/com/muchlab/chapter71/Chapter71ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/SpringMvcStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-hellomvc/springmvc-01-hellomvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/src/main/java/com/muchlab/chapter72/Chapter72Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/src/main/java/com/muchlab/chapter72/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/src/main/java/com/muchlab/chapter72/support/MoneyDeserializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/src/main/java/com/muchlab/chapter72/support/MoneySerializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/src/test/java/com/muchlab/chapter72/Chapter72ApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0af10012-5d0a-4cfa-b2d0-94609a9c5d1d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0af10012-5d0a-4cfa-b2d0-94609a9c5d1d.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/90af3dc4-7370-4b07-8d5b-b25849fe8073.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/90af3dc4-7370-4b07-8d5b-b25849fe8073.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a126763d-c4f0-48c3-94af-c838ce2d407a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a126763d-c4f0-48c3-94af-c838ce2d407a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a39d035f-4fe5-4558-9120-5362186ea109.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a39d035f-4fe5-4558-9120-5362186ea109.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/Chapter64Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/Chapter64Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/CoffeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/CoffeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/GlobalControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/java/com/muchlab/chapter64/controller/GlobalControllerAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-4-Thymeleaf/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +162,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/chapter1-2-Swagger/src/main/java/com" />
@@ -187,7 +171,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -225,7 +209,7 @@
       <command value="PersistentMoneyAmount" />
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Chapter71Application">
+  <component name="RunManager" selected="Spring Boot.Chapter72Application">
     <configuration name="DemoApplicationTests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chapter2-5-MyBatis" />
       <extension name="coverage">
@@ -407,6 +391,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter72Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter7-2-ComplexRestTemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.chapter72.Chapter72Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chapter1-1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="chapter1-1-RestfulApi" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muchlab.demo.DemoApplication" />
@@ -549,6 +540,7 @@
       <item itemvalue="Spring Boot.Chapter63Application" />
       <item itemvalue="Spring Boot.Chapter64Application" />
       <item itemvalue="Spring Boot.Chapter71Application" />
+      <item itemvalue="Spring Boot.Chapter72Application" />
     </list>
     <recent_temporary>
       <list>
@@ -614,7 +606,7 @@
       <workItem from="1594343448900" duration="35802000" />
       <workItem from="1594633179057" duration="35807000" />
       <workItem from="1594805895704" duration="3903000" />
-      <workItem from="1594826857973" duration="10997000" />
+      <workItem from="1594826857973" duration="13958000" />
     </task>
     <servers />
   </component>
@@ -623,6 +615,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="25" key="#Assign_Data_Sources" timestamp="1594700052668">
@@ -645,10 +640,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="125" y="36" width="1092" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1594658276332" />
-    <state x="146" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1594912726824">
+    <state x="146" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1594917617208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="146" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594912726824" />
+    <state x="146" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594917617208" />
     <state x="326" y="181" width="811" height="466" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594090440588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -661,6 +656,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="96" y="230" width="490" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1594610631997" />
+    <state x="162" y="0" key="CommitChangelistDialog2" timestamp="1594917911195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="162" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1594917911195" />
     <state width="395" height="454" key="DebuggerActiveHint" timestamp="1594705964763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -669,54 +668,54 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="477" y="41" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594599554837" />
-    <state width="1323" height="306" key="GridCell.Tab.0.bottom" timestamp="1594914097350">
+    <state width="1323" height="321" key="GridCell.Tab.0.bottom" timestamp="1594917911165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
-    <state width="1323" height="306" key="GridCell.Tab.0.center" timestamp="1594914097349">
+    <state width="1323" height="321" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594917911165" />
+    <state width="1323" height="321" key="GridCell.Tab.0.center" timestamp="1594917911165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594914097349" />
-    <state width="1323" height="306" key="GridCell.Tab.0.left" timestamp="1594914097349">
+    <state width="1323" height="321" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594917911165" />
+    <state width="1323" height="321" key="GridCell.Tab.0.left" timestamp="1594917911165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594914097349" />
-    <state width="1323" height="306" key="GridCell.Tab.0.right" timestamp="1594914097350">
+    <state width="1323" height="321" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594917911165" />
+    <state width="1323" height="321" key="GridCell.Tab.0.right" timestamp="1594917911165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
-    <state width="1323" height="306" key="GridCell.Tab.1.bottom" timestamp="1594914097351">
+    <state width="1323" height="321" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594917911165" />
+    <state width="1323" height="321" key="GridCell.Tab.1.bottom" timestamp="1594917911166">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594914097351" />
-    <state width="1323" height="306" key="GridCell.Tab.1.center" timestamp="1594914097350">
+    <state width="1323" height="321" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594917911166" />
+    <state width="1323" height="321" key="GridCell.Tab.1.center" timestamp="1594917911166">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
-    <state width="1323" height="306" key="GridCell.Tab.1.left" timestamp="1594914097350">
+    <state width="1323" height="321" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594917911166" />
+    <state width="1323" height="321" key="GridCell.Tab.1.left" timestamp="1594917911166">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594914097350" />
-    <state width="1323" height="306" key="GridCell.Tab.1.right" timestamp="1594914097351">
+    <state width="1323" height="321" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594917911166" />
+    <state width="1323" height="321" key="GridCell.Tab.1.right" timestamp="1594917911166">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="306" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594914097351" />
-    <state width="1323" height="259" key="GridCell.Tab.2.bottom" timestamp="1594914085007">
+    <state width="1323" height="321" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594917911166" />
+    <state width="1323" height="259" key="GridCell.Tab.2.bottom" timestamp="1594917822881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
-    <state width="1323" height="259" key="GridCell.Tab.2.center" timestamp="1594914085007">
+    <state width="1323" height="259" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594917822881" />
+    <state width="1323" height="259" key="GridCell.Tab.2.center" timestamp="1594917822881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
-    <state width="1323" height="259" key="GridCell.Tab.2.left" timestamp="1594914085007">
+    <state width="1323" height="259" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1594917822881" />
+    <state width="1323" height="259" key="GridCell.Tab.2.left" timestamp="1594917822881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
-    <state width="1323" height="259" key="GridCell.Tab.2.right" timestamp="1594914085007">
+    <state width="1323" height="259" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1594917822881" />
+    <state width="1323" height="259" key="GridCell.Tab.2.right" timestamp="1594917822881">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="259" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1594914085007" />
+    <state width="1323" height="259" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1594917822881" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1594649021072">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -729,10 +728,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="324" y="98" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1594085098448" />
-    <state x="103" y="20" width="1040" height="708" key="SettingsEditor" timestamp="1594807020044">
+    <state x="103" y="20" width="1040" height="708" key="SettingsEditor" timestamp="1594915919459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="103" y="20" width="1040" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594807020044" />
+    <state x="103" y="20" width="1040" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594915919459" />
     <state x="482" y="144" key="chooseDestDirectoryDialog" timestamp="1594017241387">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -753,10 +752,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="237" y="102" width="892" height="567" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1594042163630" />
-    <state x="115" y="105" width="1251" height="566" key="new project wizard" timestamp="1594912409039">
+    <state x="115" y="80" width="1251" height="566" key="new project wizard" timestamp="1594916214980">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="115" y="105" width="1251" height="566" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1594912409039" />
+    <state x="115" y="80" width="1251" height="566" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1594916214980" />
     <state x="503" y="179" width="672" height="677" key="run.anything.popup" timestamp="1594652535691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
