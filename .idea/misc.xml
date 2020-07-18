@@ -35,6 +35,8 @@
         <option value="$PROJECT_DIR$/chapter6-4-Thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/chapter7-1-RestTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/chapter7-2-ComplexRestTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8-1-SimpleReactor/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8-2-AspectDemo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

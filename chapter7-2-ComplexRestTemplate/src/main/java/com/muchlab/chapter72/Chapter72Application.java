@@ -18,6 +18,8 @@ import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
 
 import java.net.URI;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
 
 @SpringBootApplication
@@ -62,6 +64,9 @@ public class Chapter72Application implements ApplicationRunner {
                 new ParameterizedTypeReference<List<Coffee>>() {};
         ResponseEntity<List<Coffee>> list = restTemplate.exchange(coffeeUri, HttpMethod.GET, null, ptr);
         list.getBody().forEach(c->log.info("Coffee:{}", c));
-
+//        List<LinkedHashMap> list = new ArrayList<>();
+//        //如果返回的是多个对象，那使用getForObject将会默认返回LinkedHashMap类型的数据
+//        list = restTemplate.getForObject(coffeeUri, list.getClass());
+//        list.forEach(c->log.info("c:{}", c.toString()));
     }
 }

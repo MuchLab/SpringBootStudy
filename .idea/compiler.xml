@@ -7,30 +7,32 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chapter4-1-JpaDemo" />
-        <module name="chapter6-1-ApplicationContext" />
         <module name="chapter2-3-JPA" />
         <module name="chapter6-2-WebController" />
         <module name="chapter6-3-JsonViewController" />
         <module name="chapter3-1-Thymeleaf" />
+        <module name="chapter6-4-Thymeleaf" />
+        <module name="chapter8-1-SimpleReactor" />
         <module name="chapter5-2-MongDBRepositories" />
         <module name="chapter5-1-MongoDB" />
         <module name="chapter1-2-swagger" />
-        <module name="chapter6-4-Thymeleaf" />
-        <module name="SpringBootStudy" />
         <module name="chapter2-1-Jdbc" />
-        <module name="chapter1-1-RestfulApi" />
+        <module name="chapter6-1-ApplicationContext" />
         <module name="chapter5-3-Jedis" />
         <module name="chapter2-7-MyBatisMultiDataSource" />
         <module name="chapter2-6-MultiDataSource" />
         <module name="chapter4-2-MyBatisDemo" />
-        <module name="chapter4-4-SpringBucks" />
+        <module name="chapter4-3-MyBatisGenerator" />
+        <module name="chapter8-2-AspectDemo" />
         <module name="chapter7-2-ComplexRestTemplate" />
         <module name="chapter1-2-Swagger" />
         <module name="chapter7-1-RestTemplate" />
         <module name="chapter2-2-HikariCP&amp;Druid" />
-        <module name="chapter4-3-MyBatisGenerator" />
+        <module name="chapter4-4-SpringBucks" />
+        <module name="SpringBootStudy" />
         <module name="chapter2-4-MyBatis" />
         <module name="chapter2-5-MyBatis" />
+        <module name="chapter1-1-RestfulApi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -63,6 +65,8 @@
       <module name="chapter6-4-Thymeleaf" options="-parameters" />
       <module name="chapter7-1-RestTemplate" options="-parameters" />
       <module name="chapter7-2-ComplexRestTemplate" options="-parameters" />
+      <module name="chapter8-1-SimpleReactor" options="-parameters" />
+      <module name="chapter8-2-AspectDemo" options="-parameters" />
     </option>
   </component>
 </project>

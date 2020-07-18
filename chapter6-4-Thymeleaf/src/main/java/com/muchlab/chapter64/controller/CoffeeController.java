@@ -13,6 +13,7 @@ import org.joda.money.Money;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
 import org.springframework.stereotype.Controller;
+import org.springframework.util.MultiValueMap;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
@@ -41,7 +42,9 @@ public class CoffeeController {
             throw new ValidationException(result.toString());
         }
         Coffee coffee = coffeeService.saveCoffee(newCoffee.getName(), newCoffee.getPrice());
-        return new ResponseEntity<Coffee>(coffee, HttpStatus.CREATED);
+        HttpHeaders responseHeaders = new HttpHeaders();
+        responseHeaders.set("MyResponseHeader", "MyValue");
+        return new ResponseEntity<>(coffee, responseHeaders, HttpStatus.CREATED);
     }
 
     @PostMapping(consumes = MediaType.APPLICATION_FORM_URLENCODED_VALUE)
